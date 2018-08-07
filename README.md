@@ -7,3 +7,9 @@ Display art around you
 Running :
 
     go run main.go
+
+## Web app
+
+Running :
+
+    elm-reactor
